@@ -1,18 +1,189 @@
-# 💫 About Me:
-🚀 About Me<br><br>🎓 Computer Science Engineering student passionate about Full Stack Development & AI-powered applications  <br>💻 Front End Developer Intern with hands-on experience building scalable and responsive web applications  <br>⚡ Skilled in React, Next.js, JavaScript, TailwindCSS, SCSS, and REST API integration  <br>🛠️ Built projects including offline-first budgeting systems, student management platforms, and AI-assisted learning tools  <br>📈 Focused on creating clean UI/UX, reusable components, and production-quality applications  <br>🌱 Currently learning advanced React, backend architecture, and system design  <br>🤝 Open freelance opportunities and open-source collaboration  <br>🎯 Goal: Become a highly skilled Full Stack Developer and build impactful real-world products  
+<h1 align="center">Hi 👋, I'm Surya Sekhar Prajapati</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-sekhar-prajapati-632708262/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Surya Sekhar Prajapati) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:surya2004sekhar@gmail.com) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Suryachamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Suryachamp&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryachamp&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">
+Frontend Developer | Full Stack Learner | Building Real-World Web Applications
+</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Suryachamp&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering student at **University of Engineering & Management, Jaipur**
+- 💻 Front End Developer Intern at **Ubuy Technologies Pvt. Ltd.**
+- ⚡ Passionate about building responsive, scalable & user-friendly web applications
+- 🛠️ Skilled in React, Next.js, JavaScript, TailwindCSS, SCSS & REST APIs
+- 📊 Built projects including Budget Box, Student Management System & AI-assisted learning platforms
+- 🌱 Currently learning Advanced React, Backend Architecture & System Design
+- 🤝 Open to Freelance Projects, Internships & Open Source Collaboration
+- 🎯 Goal: Become a highly skilled Full Stack Developer
+
+---
+
+## 📄 Quick Info
+
+- 🔭 Currently working on modern web applications & frontend systems
+- ⚡ Exploring Next.js, Backend Development & scalable architectures
+- 🎨 Interested in clean UI/UX and responsive design
+- 📫 Reach me at: **surya2004sekhar@gmail.com**
+- 🌐 Portfolio: **https://surya-portfolio-ados.vercel.app/**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Suryachamp" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/surya-sekhar-prajapati-632708262" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://surya-portfolio-ados.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+## 🌐 Frontend Development
+<p align="left">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery"/>
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router"/>
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform"/>
+</p>
+
+---
+
+## 🎨 UI / Styling
+<p align="left">
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass"/>
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress"/>
+</p>
+
+---
+
+## ⚙️ Backend Development
+<p align="left">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
+</p>
+
+---
+
+## 🗄️ Database Technologies
+<p align="left">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
+</p>
+
+---
+
+## 💻 Programming Languages
+<p align="left">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🧰 Tools & Platforms
+<p align="left">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+</p>
+
+---
+
+## 🎨 Design & Productivity
+<p align="left">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
+</p>
+
+---
+
+# 💼 Experience
+
+## 💻 Front End Developer Intern — Ubuy Technologies Pvt. Ltd.
+📍 Jaipur, India | Sept 2025 – Present
+
+- Built responsive and reusable web pages using HTML, SCSS & Bootstrap
+- Worked on Next.js applications with modular architecture
+- Improved mobile responsiveness, UI consistency & performance
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Budget Box
+Offline-first budgeting application using Next.js & IndexedDB
+
+- Built dynamic analytics dashboard
+- Added forecasting & anomaly detection
+- Created sync APIs with Node.js + PostgreSQL
+
+---
+
+## 🎓 Quorium Student Management System
+
+- Built using React, TailwindCSS & shadcn/ui
+- Added searchable student dashboard & forms
+- Designed scalable mobile-first UI
+
+---
+
+## 📚 Nagrik And Samvidhan
+
+AI-assisted constitutional learning platform
+
+- Integrated Gemini API
+- Added gamified learning modules & quizzes
+- Built using ReactJS, JavaScript, HTML & CSS
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suryachamp&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryachamp&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Suryachamp&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 Goals for 2026
+
+- 🚀 Become industry-ready in Full Stack Development
+- 📚 Master Backend Architecture & System Design
+- 🌍 Start freelancing and work on real-world products
+- 🤝 Contribute consistently to Open Source
+
+---
+
+⭐ *If you like my work, consider giving a star to my repositories!*
