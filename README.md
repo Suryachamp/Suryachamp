@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="http://googleusercontent.com/image_generation_content/175" alt="Surya Sekhar Prajapati Profile Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Surya Sekhar Prajapati</h1>
 
 <h3 align="center">
