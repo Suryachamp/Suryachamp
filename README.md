@@ -9,13 +9,12 @@ Full Stack Learner | Building Real-World Web Applications
 ## 🚀 About Me
 
 - 🎓 Computer Science Engineering student at **University of Engineering & Management, Jaipur**
-- 💻 Front End Developer Intern at **Ubuy Technologies Pvt. Ltd.**
+- 💻 Front End Developer at **Ubuy Technologies Pvt. Ltd.**
 - ⚡ Passionate about building responsive, scalable & user-friendly web applications
 - 🛠️ Skilled in React, Next.js, JavaScript, TailwindCSS, SCSS & REST APIs
 - 📊 Built projects including Budget Box, Student Management System & AI-assisted learning platforms
 - 🌱 Currently learning Advanced React, Backend Architecture & System Design
-- 🤝 Open to Freelance Projects, Internships & Open Source Collaboration
-- 🎯 Goal: Become a highly skilled Full Stack Developer
+- 🤝 Open to Freelance Projects & Open Source Collaboration
 
 ---
 
