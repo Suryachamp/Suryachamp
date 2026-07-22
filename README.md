@@ -26,7 +26,6 @@
 <br>
 
 ```ts
-// whoami.ts
 const surya = {
   role: "Frontend Software Engineer @ Ubuy Technologies",
   based: "Jaipur, India",
