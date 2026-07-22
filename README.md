@@ -1,78 +1,133 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e2327,100:2d7dd2&height=230&section=header&text=Surya%20Sekhar%20Prajapati&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Frontend%20Engineer%20%C2%B7%20Building%20fast%2C%20clean%20web%20apps&descSize=18&descAlignY=85" width="100%"/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Software+Engineer+%40+Ubuy+Technologies&font=Fira+Code&center=true&width=600&height=45&color=2d7dd2&vCenter=true&size=22&repeat=false" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:7C3AED,100:06B6D4&height=260&section=header&text=SURYA%20SEKHAR%20PRAJAPATI&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Engineer%20%E2%80%94%20Shipping%20fast%2C%20precise%20web%20apps&descSize=17&descAlignY=58" width="100%"/>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white)](https://surya-portfolio-ados.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-sekhar-prajapati-632708262)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya2004sekhar@gmail.com)
+<a href="https://surya-portfolio-ados.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=06B6D4" />
+</a>
+<a href="https://linkedin.com/in/surya-sekhar-prajapati-632708262">
+  <img src="https://img.shields.io/badge/LINKEDIN-0F172A?style=for-the-badge&logo=linkedin&logoColor=7C3AED" />
+</a>
+<a href="mailto:surya2004sekhar@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-0F172A?style=for-the-badge&logo=gmail&logoColor=06B6D4" />
+</a>
+<a href="https://github.com/Suryachamp">
+  <img src="https://komarev.com/ghpvc/?username=Suryachamp&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=650&lines=const+dev+%3D+%7B+role%3A+%22Frontend+Engineer%22+%7D%3B;dev.stack+%3D+%5B%22React%22%2C+%22Next.js%22%2C+%22Node%22%5D%3B;dev.status+%3D+%22open+to+full-stack+roles%22%3B;while(shipping)+%7B+learn()%3B+build()%3B+%7D" />
 
 </div>
 
 <br>
 
-## 🧭 About
-
-- 💻 **Frontend Software Engineer** at **Ubuy Technologies Pvt. Ltd.**, Jaipur (since Sept 2025)
-- 🎓 **B.Tech CSE**, University of Engineering & Management, Jaipur — Final CGPA 8.32, Class of 2026
-- 🛠️ Core stack: **React, Next.js, JavaScript, TailwindCSS, SCSS, Node.js/Express, PostgreSQL, Prisma**
-- 🌱 Currently deepening backend architecture, system design, and shipping full-stack side projects
-- 📍 Based in Jaipur, open to full-stack roles anywhere
-- 🤝 Open to freelance work and open-source collaboration
-
-<br>
-
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| **[CareerForge](#)** | MERN app that generates resumes/cover letters and preps interview answers using the Gemini API, with JWT auth, containerized via Docker | React · Node.js · MongoDB · JWT · Gemini API · Docker |
-| **Budget Box** | Offline-first budgeting app with a forecasting/anomaly-detection dashboard and a sync layer between local and server storage | Next.js · IndexedDB · PostgreSQL |
-| **Subscription Manager** | Backend service for tracking recurring subscriptions and billing cycles *(in progress)* | Node.js · Express · PostgreSQL · Prisma ORM |
-| **Nagrik And Samvidhan** | AI-assisted platform for learning the Indian Constitution through gamified quizzes | React · Gemini API · JavaScript |
-| **Quorium** | Student management system with a searchable dashboard and mobile-first design | React · TailwindCSS · shadcn/ui |
-| **PopX** | Pixel-accurate 4-screen React app built from an Adobe XD spec (Landing, Login, Register, Account Settings) | React · Vite |
+```ts
+// whoami.ts
+const surya = {
+  role: "Frontend Software Engineer @ Ubuy Technologies",
+  based: "Jaipur, India",
+  education: "B.Tech CSE, UEM Jaipur — CGPA 8.32 (Class of 2026)",
+  focus: ["React", "Next.js", "Node.js", "PostgreSQL", "Prisma"],
+  currentlyExploring: "backend architecture & system design",
+  openTo: "full-stack roles, anywhere",
+};
+```
 
 <br>
 
-## 🛠️ Tech Stack
+## ⚡ Featured builds
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Data**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+### 🧠 [CareerForge](#)
+AI-powered resume, cover letter, and mock-interview generator built on the Gemini API, with JWT auth and Docker packaging.
 
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+`React` `Node.js` `MongoDB` `JWT` `Gemini API` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 Budget Box
+Offline-first budgeting app with a forecasting and anomaly-detection dashboard, synced between IndexedDB and Postgres.
+
+`Next.js` `IndexedDB` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📜 Nagrik And Samvidhan
+Gamified platform for learning the Indian Constitution through AI-generated quizzes.
+
+`React` `Gemini API` `JavaScript`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Quorium
+Student management system with a searchable, mobile-first dashboard.
+
+`React` `TailwindCSS` `shadcn/ui`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔁 Subscription Manager <sub>`in progress`</sub>
+Backend service tracking recurring subscriptions and billing cycles.
+
+`Node.js` `Express` `PostgreSQL` `Prisma`
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 PopX
+Pixel-accurate 4-screen app rebuilt from an Adobe XD spec — Landing, Login, Register, Account Settings.
+
+`React` `Vite`
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 📊 GitHub Activity
+## 🧰 Tech stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Suryachamp&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryachamp&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,tailwind,bootstrap,sass,nodejs,express,postgres,mongodb,prisma,git,docker,figma,postman&theme=dark" />
 
 </div>
 
-> These three cards pull live from the GitHub API — they'll always reflect your actual current activity, no manual updates needed.
+<br>
+
+## 📈 The numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Suryachamp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4&text_color=E6EDF3" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryachamp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E6EDF3" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryachamp&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=06B6D4&currStreakLabel=E6EDF3" />
+
+</div>
+
+> Stats pull live from the GitHub API — no manual updates needed, they always reflect current activity.
+
+<br>
+
+## 🐍 Contribution snake
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Suryachamp/Suryachamp/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake animation" />
@@ -80,17 +135,19 @@
 
 <br>
 
-## 🎯 2026 Goals
+## 🎯 2026 roadmap
 
-- Land a full-stack role, open to relocation
-- Ship Subscription Manager end-to-end and put it in production
-- Go deeper on system design and backend architecture
-- Start contributing to open source consistently
+- [ ] Land a full-stack role — open to relocation, anywhere
+- [ ] Ship Subscription Manager end-to-end and put it in production
+- [ ] Go deeper on system design and backend architecture
+- [ ] Start contributing to open source, consistently
 
 <br>
 
 <div align="center">
 
-⭐ If any of this is useful to you, a star on the repo is appreciated.
+**If any of this is useful, a ⭐ on the repo is appreciated.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:7C3AED&height=100&section=footer" width="100%"/>
 
 </div>
